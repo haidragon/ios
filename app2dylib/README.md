@@ -5,7 +5,7 @@ A reverse engineering tool to convert iOS app to dylib
 # Usage
 
 ```
-
+//https://bbs.pediy.com/thread-219004.htm
 git clone --recursive https://github.com/tobefuturer/app2dylib.git
 cd app2dylib && make
 ./app2dylib
